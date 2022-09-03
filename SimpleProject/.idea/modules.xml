@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ReactiveGo/.idea/ReactiveGo.iml" filepath="$PROJECT_DIR$/../ReactiveGo/.idea/ReactiveGo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SimpleProject.iml" filepath="$PROJECT_DIR$/.idea/SimpleProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../smt-desk-server/.idea/smt-desk-server.iml" filepath="$PROJECT_DIR$/../smt-desk-server/.idea/smt-desk-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../websocket-master/.idea/websocket-master.iml" filepath="$PROJECT_DIR$/../websocket-master/.idea/websocket-master.iml" />
+    </modules>
+  </component>
+</project>
